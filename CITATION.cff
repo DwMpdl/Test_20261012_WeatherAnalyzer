@@ -7,15 +7,18 @@
         - family-names: Walter
           given-names: David
           orcid: https://orcid.org/0000-0001-6807-5007
-          affiliation: "Max Planck Digital Library & Max Planck Institute for Chemistry"        
+          affiliation: "Max Planck Information and Technology & Max Planck Institute for Chemistry"        
         - family-names: Franke
           given-names: Michael
           orcid: https://orcid.org/0000-0002-2661-8242
-          affiliation: "Max Planck Digital Library"        
-        - family-names: "Bahamón Jiménez"
+          affiliation: "Max Planck Information and Technology"        
+        - family-names: "Bahamon Jimenez"
           given-names: Laura
           orcid: https://orcid.org/0009-0003-9330-9292
-          affiliation: "Max Planck Digital Library"
+          affiliation: "Max Planck Information and Technology"
+        - family-names: Beispielmensch
+          given-names: Tina
+          affiliation: "Beispiel-Institution"
     doi: 10.5281/zenodo.1234
     license: MIT
     date-released: 2027-04-30
